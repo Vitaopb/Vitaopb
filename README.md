@@ -15,14 +15,14 @@
 
  <p align="center">
   <a href="">
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vitaopb&theme=react&hide_border=true"/>
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vitaopb&theme=holi-theme&hide_border=true"/>
   </a>
  </p>
  </section>
 </main>
- <p align="middle">
+ <p align="center">
   <a herf="">
-   <img src="https://readme-typing-svg.herokuapp.com/?center=true&width=700&lines=Skills+I%27m+Learning" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=fira+code&color=%2336BCF7&center=true&width=700&lines=Skills+i'm+learning"/>
   </a>
  </p>
  <p align="middle">
