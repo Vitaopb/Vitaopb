@@ -9,7 +9,7 @@
  <section>
   <p align="middle">
    <a herf="">
-    <img src="https://readme-typing-svg.herokuapp.com/?%20%20%20%20center=true&width=700&lines=Hi%2C+I%27m+Victor+Lieuthier,+I+have+19+years.+;I%27m+Software+Developer+for+1+year!;Currently+studying+Back-end." />
+    <img src="https://readme-typing-svg.herokuapp.com/?%20%20%20%20center=true&width=700&lines=Hi%2C+I%27m+Victor+Lieuthier,+I+have+20+years.+;I%27m+Software+Developer+for+2+years!;Currently+studying+Back-end." />
   </a>
  </p>
 
